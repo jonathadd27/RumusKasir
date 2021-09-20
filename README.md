@@ -1,0 +1,2 @@
+# RumusKasir
+Rumus kasir sederhana
